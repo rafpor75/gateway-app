@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.gateway"
+    },
+    "jhipsterVersion": "6.1.2",
+    "applicationType": "gateway",
+    "baseName": "gateway",
+    "packageName": "com.gateway",
+    "packageFolder": "com/gateway",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MGQ5ZjFkYjE3YTI0OTM0N2QyNzRiN2Y5ODYzZjQ1MWVlMmViODY4YWVhZWQyZTIyN2YzY2I2ZTE2NzkwMmEyNWQxNmVhOTBiZDZkZjI2ZmE2OTQxMDQ1NGJkYmVmOGEwM2MwNmQ1NmVjNTUxNTU1YTgwZjMzMWIyNTcyZTdjMmE=",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false
+  }
+}
